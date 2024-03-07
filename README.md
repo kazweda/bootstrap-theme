@@ -37,7 +37,7 @@ exec $SHELL -l
 
 ### bootstrap
 ```
-npm install --save bootstrap
+npm install bootstrap
 ```
 ### sass
 - [sass install](https://sass-lang.com/install/)
