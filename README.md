@@ -47,3 +47,9 @@ npm install --save-dev sass
 nodenv rehash
 sass --version
 ```
+## scssのコンパイル
+sassコマンドでscssファイルをコンパイルしてcssファイルを生成します。
+```
+cd css
+sass -s compressed custom.scss bootstrap.min.css
+```
