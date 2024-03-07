@@ -18,5 +18,8 @@
   "homepage": "https://github.com/kazweda/bootstrap-theme#readme",
   "dependencies": {
     "bootstrap": "^5.3.3"
+  },
+  "devDependencies": {
+    "sass": "^1.71.1"
   }
 }
