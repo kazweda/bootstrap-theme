@@ -53,3 +53,5 @@ sassコマンドでscssファイルをコンパイルしてcssファイルを生
 cd css
 sass -s compressed custom.scss bootstrap.min.css
 ```
+### カスタマイズ例
+http://htmlpreview.github.io/?https://github.com/kazweda/bootstrap-theme/blob/main/index.html
